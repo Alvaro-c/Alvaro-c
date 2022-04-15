@@ -3,6 +3,10 @@
 
 <br>
 
+### 👨🏻‍💻 &nbsp;About Me
+
+I define myself as a curious person and a problem solver. I have aptitudes for reading and interpreting data, understanding how things work, and solving logical problems.
+
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -28,6 +32,11 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alvaro-c&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvaro-c&theme=github_dark)
+
+## More statistics
+
 <p align="center">
 <a href="https://github.com/Alvaro-c">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alvaro-c&layout=compact&langs_count=8&theme=algolia"/>
@@ -35,11 +44,6 @@
 
 </a>
 </p>
-
-## By the way here are some of my statistics 🚀
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alvaro-c&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alvaro-c&theme=github_dark)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
